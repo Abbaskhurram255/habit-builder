@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/habit-builder/static/css/main.40233ef7.chunk.css",
+    "main.js": "/habit-builder/static/js/main.43ea56c4.chunk.js",
+    "main.js.map": "/habit-builder/static/js/main.43ea56c4.chunk.js.map",
+    "runtime-main.js": "/habit-builder/static/js/runtime-main.72ddcfca.js",
+    "runtime-main.js.map": "/habit-builder/static/js/runtime-main.72ddcfca.js.map",
+    "static/js/2.4a0f1b91.chunk.js": "/habit-builder/static/js/2.4a0f1b91.chunk.js",
+    "static/js/2.4a0f1b91.chunk.js.map": "/habit-builder/static/js/2.4a0f1b91.chunk.js.map",
+    "index.html": "/habit-builder/index.html",
+    "precache-manifest.714fb443554f2fe2c38ccfc3b7279012.js": "/habit-builder/precache-manifest.714fb443554f2fe2c38ccfc3b7279012.js",
+    "service-worker.js": "/habit-builder/service-worker.js",
+    "static/css/main.40233ef7.chunk.css.map": "/habit-builder/static/css/main.40233ef7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72ddcfca.js",
+    "static/js/2.4a0f1b91.chunk.js",
+    "static/css/main.40233ef7.chunk.css",
+    "static/js/main.43ea56c4.chunk.js"
+  ]
+}
